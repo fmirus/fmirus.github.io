@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://fmirus.github.io/
-baseurl:
+baseurl: /
 title: Florian Mirus
 author: Florian Mirus
 description: My personal website
